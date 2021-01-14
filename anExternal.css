@@ -34,5 +34,6 @@
 .blurb{
     border-style: solid;
     border-radius: 25px;
+    width:440px;
     padding:20px;
 }
