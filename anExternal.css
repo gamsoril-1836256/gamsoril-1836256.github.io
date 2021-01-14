@@ -20,7 +20,7 @@
     float: left;
 }
 
-.imgcap{
+.std{
     position: relative;
     text-align: center;
 }
@@ -32,7 +32,7 @@
     transform: translate(-50%, -50%);
 }
 .blurb{
-    position: relative;
+    position: center;
     border-style: solid;
     border-radius: 25px;
     padding:20px;
